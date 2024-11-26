@@ -3,7 +3,8 @@ This is a repository of a book that I am working one. I have yet to configure th
 # Content
 This book is schedule to be one of the many books that I plan to release(hopefully).
 # Characters
-tbh
+* Zea
+* Sarael
 # Architecture
 Use renpy to develope this stand alone version that can be download and play anywhere.
 # Contributor
